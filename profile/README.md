@@ -16,6 +16,6 @@ brand online.
 
 ## Contact & Technical Details
 
-- **Website:** [Cite.me.in](https://cite.me.in)
+- **Website:** [cite.me.in](https://cite.me.in)
 - **Contact:** [assaf@labnotes.org](mailto:assaf@labnotes.org)
 - **Focus:** Real-time monitoring of AI citations and brand visibility across major LLM platforms.
